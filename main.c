@@ -13,7 +13,7 @@ int choice;
         printf("4. Delete Student\n");
         printf("5. Exit\n");
 
-        printf("Enter Choice: ");
+        printf("Enter the number: ");
         scanf("%d",&choice);
 
         switch(choice)
