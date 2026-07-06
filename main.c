@@ -8,12 +8,12 @@ int choice;
     {
         printf("\n====== Student Management System ======\n");
         printf("1. Add Student\n");
-        printf("2. Display Students\n");
-        printf("3. Search Student\n");
-        printf("4. Delete Student\n");
+        printf("2. Display \n");
+        printf("3. Search \n");
+        printf("4. Delete \n");
         printf("5. Exit\n");
-
-        printf("Enter the number: ");
+      
+        printf("Enter : ");
         scanf("%d",&choice);
 
         switch(choice)
