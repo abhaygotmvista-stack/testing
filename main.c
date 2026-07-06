@@ -7,7 +7,7 @@ int choice;
     while (1)
     {
         printf("\n====== Student Management System ======\n");
-        printf("1. Add Student\n");
+        printf("1. Add \n");
         printf("2. Display \n");
         printf("3. Search \n");
         printf("4. Delete \n");
