@@ -3,8 +3,6 @@
 
 int main()
 {
-    int choice;
-
     while (1)
     {
         printf("\n====== Student Management System ======\n");
